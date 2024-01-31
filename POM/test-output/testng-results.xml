@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows are::11]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Fail::Customer-00000000972----Customer-00000000668]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000973----Customer-00000000973]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000974----Customer-00000000974]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000975----Customer-00000000975]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000976----Customer-00000000976]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000977----Customer-00000000977]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000978----Customer-00000000978]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000979----Customer-00000000979]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000980----Customer-00000000980]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000981----Customer-00000000981]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Success::Customer-00000000982----Customer-00000000982]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-26T18:05:13 IST" name="Default suite" finished-at="2024-01-26T18:07:05 IST" duration-ms="112034">
+    <groups>
+    </groups>
+    <test started-at="2024-01-26T18:05:13 IST" name="Default test" finished-at="2024-01-26T18:07:05 IST" duration-ms="112034">
+      <class name="driver_factory.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driver_factory.AppTest@235ecd9f]" started-at="2024-01-26T18:05:13 IST" name="setUp" finished-at="2024-01-26T18:05:17 IST" duration-ms="4585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driver_factory.AppTest@235ecd9f]" started-at="2024-01-26T18:05:17 IST" name="startTest" finished-at="2024-01-26T18:07:04 IST" duration-ms="106575" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows are::11]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Fail::Customer-00000000972----Customer-00000000668]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000973----Customer-00000000973]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000974----Customer-00000000974]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000975----Customer-00000000975]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000976----Customer-00000000976]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000977----Customer-00000000977]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000978----Customer-00000000978]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000979----Customer-00000000979]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000980----Customer-00000000980]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000981----Customer-00000000981]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Success::Customer-00000000982----Customer-00000000982]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driver_factory.AppTest@235ecd9f]" started-at="2024-01-26T18:07:04 IST" name="tearDown" finished-at="2024-01-26T18:07:05 IST" duration-ms="806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driver_factory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
